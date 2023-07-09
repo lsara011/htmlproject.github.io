@@ -1,0 +1,65 @@
+*{
+    color: whitesmoke;
+    font-family: "Bebas Neue", serif;
+    text-align: center;
+}
+
+body {
+
+    background-color: black;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+table{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+td{
+    border-style: dotted;
+    border-color: darkslateblue;
+}
+
+h4{
+    color: yellow;
+}
+
+strong{
+    color: darkslateblue;
+}
+
+h1, h3{
+    color: mediumspringgreen;
+}
+
+h2{
+    color: #596854;
+}
+
+.htmlex{
+    color: orange;
+    font-size: larger;
+}
+
+p.tablelist{
+    color: yellow;
+}
+
+h5 {
+    color: white;
+    border-style: groove;
+    display: inline-block;
+    padding: 2px;
+    font-size: larger;
+}
+
+.cssex{
+    color: #8c6b48;
+}
+
+.explanation{
+    color: darkred;
+    font-size: larger;
